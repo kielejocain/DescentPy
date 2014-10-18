@@ -1,4 +1,4 @@
-## Descent, bitches!
+## This is intended to be the file run by the end user.
 
 from assets.Game import Descent_Game
 
