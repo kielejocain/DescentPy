@@ -7,7 +7,7 @@ def main():
     game = Descent_Game()
     game.players = int(raw_input("How many players?"))
 
-    game.overlord = True
+    game.overlord = False
     
 
 if __name__ == "__main__":
