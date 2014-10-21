@@ -3,7 +3,11 @@
 from assets.Game import Descent_Game
 
 def main():
-    
+    """
+    The main program container.
+    :rtype : NULL
+    :return:
+    """
     game = Descent_Game()
     game.players = int(raw_input("How many players?"))
 
